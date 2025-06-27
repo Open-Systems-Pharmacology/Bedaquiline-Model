@@ -2392,7 +2392,7 @@
               }
             },
             {
-              "Name": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_400_400 mg QD__-Bedaquiline-PeripheralVenousBlood-Plasma-Measurement",
+              "Name": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__-Bedaquiline-PeripheralVenousBlood-Plasma-Measurement",
               "X": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__|Time",
               "Y": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement",
               "CurveOptions": {
