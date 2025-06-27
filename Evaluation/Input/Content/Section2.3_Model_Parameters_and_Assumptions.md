@@ -4,7 +4,7 @@ Bedaquiline oral absorption is atypical with delay and double peaks. A Weibull f
 
 ### Distribution <a id="model-parameters-and-assumptions-distribution"></a>
 
-Distribution is affected by lipophilicity and fraction unbound, for which different values have been reported in literature. The selected values (see [Section 2.2.1  2.2.1	In vitro / physico-chemical Data ](#methods-data)) capture best the PK of bedaquiline and M2 in plasma.
+Distribution is affected by lipophilicity and fraction unbound, for which different values have been reported in literature. The selected values (see [Section 2.2.1	In vitro / physico-chemical Data ](#methods-data)) capture best the PK of bedaquiline and M2 in plasma.
 
 After testing the available organ-plasma partition coefficient and cell permeability calculation methods built in PK-Sim, observed clinical data was best described by choosing the partition coefficient calculation by `PK-Sim Standard` and cellular permeability calculation by `PK-Sim Standard`. 
 
