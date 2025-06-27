@@ -277,7 +277,7 @@
                                 "Project": "Bedaquiline",
                                 "Simulation": "700_500_400",
                                 "Output": "Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_400_400 mg QD__",
+                                "ObservedData": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__",
                                 "Color": "#000000"
                             }
                         ]
