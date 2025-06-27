@@ -173,7 +173,6 @@
                     {
                         "Caption": "Bedaquiline (model building)",
                         "Symbol": "Circle",
-                        "Color": "#FF0000",
                         "OutputMappings": [
                             {
                                 "Project": "Bedaquiline",
@@ -187,7 +186,6 @@
                     {
                         "Caption": "M2 (model building)",
                         "Symbol": "Square",
-                        "Color": "#FF0000",
                         "OutputMappings": [
                             {
                                 "Project": "Bedaquiline",
@@ -201,7 +199,6 @@
                     {
                         "Caption": "Bedaquiline (model verification)",
                         "Symbol": "Circle",
-                        "Color": "#000000",
                         "OutputMappings": [
                             {
                                 "Project": "Bedaquiline",
@@ -285,7 +282,6 @@
                     {
                         "Caption": "M2 (model verification)",
                         "Symbol": "Square",
-                        "Color": "#000000",
                         "OutputMappings": [
                             {
                                 "Project": "Bedaquiline",
