@@ -20,6 +20,6 @@
 
 **Schlender 2016** Schlender JF, Meyer M, Thelen K, Krauss M, Willmann S, Eissing T, Jaehde U. Development of a Whole-Body Physiologically Based Pharmacokinetic Approach to Assess the Pharmacokinetics of Drugs in Elderly Individuals. Clin Pharmacokinet. 2016 Dec;55(12):1573-1589. 	
 
-**Upton 2022** Upton CM, Steele CI, Maartens G, Diacon AH, Wiesner L, Dooley KE. Pharmacokinetics of bedaquiline in cerebrospinal fluid (CSF) in patients with pulmonary tuberculosis (TB). J Antimicrob Chemother. 2022;77(6):1720–4. https://doi.org/10.1093/ jac/dkac067.
+**Upton 2022** Upton CM, Steele CI, Maartens G, Diacon AH, Wiesner L, Dooley KE. Pharmacokinetics of bedaquiline in cerebrospinal fluid (CSF) in patients with pulmonary tuberculosis (TB). J Antimicrob Chemother. 2022;77(6):1720–4. https://doi.org/10.1093/jac/dkac067.
 
 **van Heeswijk 2014** van Heeswijk RP, Dannemann B, Hoetelmans RM. Bedaquiline: a review of human pharmacokinetics and drug-drug interactions. J Antimicrob Chemother. 2014 Sep;69(9):2310-8. doi: 10.1093/jac/dku171.
