@@ -142,12 +142,12 @@
             },
             {
                 "Project": "Bedaquiline",
-                "Simulation": "400_300_200_copy",
+                "Simulation": "400_300_200_(2)",
                 "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Bedaquiline",
-                "Simulation": "400mgQD_200mgTIW",
+                "Simulation": "400mgQD_200mg_TIW",
                 "SectionReference": "ct-profiles"
             },
             {
@@ -212,56 +212,56 @@
                             },
                             {
                                 "Project": "Bedaquiline",
-                                "Simulation": "400_300_200_copy",
+                                "Simulation": "400_300_200_(2)",
                                 "Output": "Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__",
                                 "Color": "#000000"
                             },
                             {
                                 "Project": "Bedaquiline",
-                                "Simulation": "400mgQD_200mgTIW",
+                                "Simulation": "400mgQD_200mg_TIW",
                                 "Output": "Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "NCT02583048_Bedaquiline_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
                                 "Color": "#000000"
                             },
                             {
                                 "Project": "Bedaquiline",
-                                "Simulation": "400mgQD_200mgTIW",
+                                "Simulation": "400mgQD_200mg_TIW",
                                 "Output": "Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "NCT02583048_Bedaquiline_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
                                 "Color": "#000000"
                             },
                             {
                                 "Project": "Bedaquiline",
-                                "Simulation": "400mgQD_200mgTIW",
+                                "Simulation": "400mgQD_200mg_TIW",
                                 "Output": "Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "NCT02583048_Bedaquiline_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
                                 "Color": "#000000"
                             },
                             {
                                 "Project": "Bedaquiline",
-                                "Simulation": "400mgQD_200mgTIW",
+                                "Simulation": "400mgQD_200mg_TIW",
                                 "Output": "Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "NCT02583048_Bedaquiline_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
                                 "Color": "#000000"
                             },
                             {
                                 "Project": "Bedaquiline",
-                                "Simulation": "400mgQD_200mgTIW",
+                                "Simulation": "400mgQD_200mg_TIW",
                                 "Output": "Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "NCT02583048_Bedaquiline_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
                                 "Color": "#000000"
                             },
                             {
                                 "Project": "Bedaquiline",
-                                "Simulation": "400mgQD_200mgTIW",
+                                "Simulation": "400mgQD_200mg_TIW",
                                 "Output": "Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "NCT02583048_Bedaquiline_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
                                 "Color": "#000000"
                             },
                             {
                                 "Project": "Bedaquiline",
-                                "Simulation": "400mgQD_200mgTIW",
+                                "Simulation": "400mgQD_200mg_TIW",
                                 "Output": "Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "NCT02583048_Bedaquiline_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
                                 "Color": "#000000"
@@ -289,49 +289,49 @@
                         "OutputMappings": [
                             {
                                 "Project": "Bedaquiline",
-                                "Simulation": "400mgQD_200mgTIW",
+                                "Simulation": "400mgQD_200mg_TIW",
                                 "Output": "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
                                 "Color": "#000000"
                             },
                             {
                                 "Project": "Bedaquiline",
-                                "Simulation": "400mgQD_200mgTIW",
+                                "Simulation": "400mgQD_200mg_TIW",
                                 "Output": "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
                                 "Color": "#000000"
                             },
                             {
                                 "Project": "Bedaquiline",
-                                "Simulation": "400mgQD_200mgTIW",
+                                "Simulation": "400mgQD_200mg_TIW",
                                 "Output": "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
                                 "Color": "#000000"
                             },
                             {
                                 "Project": "Bedaquiline",
-                                "Simulation": "400mgQD_200mgTIW",
+                                "Simulation": "400mgQD_200mg_TIW",
                                 "Output": "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
                                 "Color": "#000000"
                             },
                             {
                                 "Project": "Bedaquiline",
-                                "Simulation": "400mgQD_200mgTIW",
+                                "Simulation": "400mgQD_200mg_TIW",
                                 "Output": "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
                                 "Color": "#000000"
                             },
                             {
                                 "Project": "Bedaquiline",
-                                "Simulation": "400mgQD_200mgTIW",
+                                "Simulation": "400mgQD_200mg_TIW",
                                 "Output": "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
                                 "Color": "#000000"
                             },
                             {
                                 "Project": "Bedaquiline",
-                                "Simulation": "400mgQD_200mgTIW",
+                                "Simulation": "400mgQD_200mg_TIW",
                                 "Output": "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
                                 "Color": "#000000"
