@@ -1,6 +1,6 @@
 The presented model building and evaluation report evaluates the performance of a PBPK model for bedaquiline and its metabolite N-desmethyl bedaquline (M2) in adults. 
 
-The herein presented model was developed and published by Metha et al. [Mehta 2024](#main-references). Metha et al. (2024) also report the extension of the model in MoBi to incorporate cranial and spinal cerebrospinal fluid. The PBPK model reported here is limited to PK-Sim and updated to V12.
+The herein presented model was developed and published by Mehta et al. [Mehta 2024](#main-references). Mehta et al. (2024) also report the extension of the model in MoBi to incorporate cranial and spinal cerebrospinal fluid. The PBPK model reported here is limited to PK-Sim and updated to V12.
 
 Bedaquiline is a bactericidal antimycobacterial medicine primarily used in the treatment of multidrug-resistant tuberculosis [Khoshnood 2021](#main-references). Bedaquiline inhibits mycobacterial ATP synthase, an enzyme essential for the production of ATP. As a result bedaquiline disrupts the bacterial energy metabolism and survival.
 
