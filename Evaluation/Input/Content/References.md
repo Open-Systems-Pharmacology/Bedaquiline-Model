@@ -1,4 +1,4 @@
-**Cordes 2023** Cordes H, Rapp H. Gene expression databases for physiologically based pharmacokinetic modeling of humans and animal species. CPT Pharmacometrics Syst Pharmacol. 2023;12(3):311–9. https:// doi.org/10.1002/psp4.12904.
+**Cordes 2023** Cordes H, Rapp H. Gene expression databases for physiologically based pharmacokinetic modeling of humans and animal species. CPT Pharmacometrics Syst Pharmacol. 2023;12(3):311–9. https://doi.org/10.1002/psp4.12904.
 
 **Diacon 2015** Diacon AH, Dawson R, von Groote-Bidlingmaier F, Symons G, Venter A, Donald PR, van Niekerk C, Everitt D, Hutchings J, Burger DA, Schall R, Mendel CM. Bactericidal activity of pyrazinamide and clofazimine alone and in combinations with pretomanid and bedaquiline. Am J Respir Crit Care Med. 2015 Apr 15;191(8):943-53. doi: 10.1164/rccm.201410-1801OC.
 
