@@ -2137,7 +2137,7 @@
       "Name": "700_500_400",
       "Model": "4Comp",
       "ObservedData": [
-        "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_400_400 mg QD__"
+        "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -2393,8 +2393,8 @@
             },
             {
               "Name": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_400_400 mg QD__-Bedaquiline-PeripheralVenousBlood-Plasma-Measurement",
-              "X": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_400_400 mg QD__|Time",
-              "Y": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_400_400 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement",
+              "X": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__|Time",
+              "Y": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 11,
@@ -3061,7 +3061,7 @@
       ]
     },
     {
-      "Name": "400mgQD_200mgTIW",
+      "Name": "400mgQD_200mg_TIW",
       "Model": "4Comp",
       "ObservedData": [
         "NCT02583048_Bedaquiline_1_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
@@ -3722,7 +3722,7 @@
             {
               "Name": "N-desmethyl BDQ (M2)-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "400mgQD_200mgTIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+              "Y": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 6
@@ -3786,7 +3786,7 @@
             {
               "Name": "Bedaquiline-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "400mgQD_200mgTIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+              "Y": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 43
@@ -3915,7 +3915,7 @@
       ]
     },
     {
-      "Name": "400_300_200_copy",
+      "Name": "400_300_200_(2)",
       "Model": "4Comp",
       "ObservedData": [
         "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__"
@@ -4164,7 +4164,7 @@
             {
               "Name": "Bedaquiline-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "400_300_200_copy|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+              "Y": "400_300_200_(2)|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 5
@@ -4866,7 +4866,7 @@
       }
     },
     {
-      "Name": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_400_400 mg QD__",
+      "Name": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__",
       "ExtendedProperties": [
         {
           "Name": "Sheet",
@@ -4911,7 +4911,7 @@
             {
               "Name": "Error",
               "QuantityInfo": {
-                "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_400_400 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Error"
+                "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Error"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -4939,7 +4939,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_400_400 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement"
+            "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -4969,7 +4969,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_400_400 mg QD__|Time",
+          "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -7706,9 +7706,9 @@
           ]
         },
         {
-          "Name": "Bedaquiline 700_400_400 mg QD",
+          "Name": "Bedaquiline 700_500_400 mg QD",
           "Classifiables": [
-            "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_400_400 mg QD__"
+            "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__"
           ]
         }
       ]
@@ -7763,8 +7763,8 @@
       "Name": "Model validation",
       "Classifiables": [
         "200_100",
-        "400_300_200_copy",
-        "400mgQD_200mgTIW",
+        "400_300_200_(2)",
+        "400mgQD_200mg_TIW",
         "700_500_400",
         "500_400_300"
       ]
