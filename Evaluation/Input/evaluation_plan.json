@@ -122,11 +122,6 @@
         "AllPlots": [
             {
                 "Project": "Bedaquiline",
-                "Simulation": "200mgQD8wk-100mgQD",
-                "SectionReference": "ct-profiles"
-            },
-            {
-                "Project": "Bedaquiline",
                 "Simulation": "400_300_200",
                 "SectionReference": "ct-profiles"
             },
