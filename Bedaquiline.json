@@ -1431,6 +1431,18 @@
         "Organism|Brain|Bedaquiline|Intracellular Unbound",
         "Organism|Brain|N-desmethyl BDQ (M2)|Intracellular Unbound"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "400_300_200|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT 01691534_Bedaquiline_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400_300_200|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT 01691534_N-desmethyl BDQ (M2)_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__"
+        }
+      ],
       "Individual": "TBPat",
       "Compounds": [
         {
@@ -1489,6 +1501,8 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
+              "Min": 0.05,
+              "Max": 336.0,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -1606,7 +1620,7 @@
             },
             {
               "Name": "End time",
-              "Value": 384.0,
+              "Value": 168.0,
               "Unit": "h"
             },
             {
@@ -1719,6 +1733,13 @@
         "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|Bedaquiline|Plasma Unbound (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma Unbound (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "200_100|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 200_100 mg QD__"
+        }
       ],
       "Individual": "TBPat",
       "Compounds": [
@@ -1835,7 +1856,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Bedaquiline_M2_V12_final\n200_100\n2025-06-12 17:41"
+          "OriginText": "Bedaquiline\n200_100\n2025-09-22 16:52"
         }
       ]
     },
@@ -1875,7 +1896,7 @@
             },
             {
               "Name": "End time",
-              "Value": 384.0,
+              "Value": 168.0,
               "Unit": "h"
             },
             {
@@ -2014,6 +2035,13 @@
         "Organism|Brain|Interstitial|Bedaquiline|Concentration in container",
         "Organism|Brain|Interstitial|N-desmethyl BDQ (M2)|Concentration in container"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "500_400_300|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 500_400_300 mg QD__"
+        }
+      ],
       "Individual": "TBPat",
       "Compounds": [
         {
@@ -2129,7 +2157,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Bedaquiline_M2_V12_final\n500_400_300\n2025-06-13 11:00"
+          "OriginText": "Bedaquiline\n500_400_300\n2025-09-22 16:58"
         }
       ]
     },
@@ -2169,7 +2197,7 @@
             },
             {
               "Name": "End time",
-              "Value": 384.0,
+              "Value": 168.0,
               "Unit": "h"
             },
             {
@@ -2306,6 +2334,13 @@
         "Organism|PeripheralVenousBlood|Bedaquiline|Plasma Unbound (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma Unbound (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "700_500_400|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__"
+        }
+      ],
       "Individual": "TBPat",
       "Compounds": [
         {
@@ -2421,642 +2456,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Bedaquiline_M2_V12_final\n700_500_400\n2025-06-13 10:59"
-        }
-      ]
-    },
-    {
-      "Name": "200mgQD8wk-100mgQD",
-      "Model": "4Comp",
-      "Solver": {},
-      "OutputSchema": [
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 4032.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
-            }
-          ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_10|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_11|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_12|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_13|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_14|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_15|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_16|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_17|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_18|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_19|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_20|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_21|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_22|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_23|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_24|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_25|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_26|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_27|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_28|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_29|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_30|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_31|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_32|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_33|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_34|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_35|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_36|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_37|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_38|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_39|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_4|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_40|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_41|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_42|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_43|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_44|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_45|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_46|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_47|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_48|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_49|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_5|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_50|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_51|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_52|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_53|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_54|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_55|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_56|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_57|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_58|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_59|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_6|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_60|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_61|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_62|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_63|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_64|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_65|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_66|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_67|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_68|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_69|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_7|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_70|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_71|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_72|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_73|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_74|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_75|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_76|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_77|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_78|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_79|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_8|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_80|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_81|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_82|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_83|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_84|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_85|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_86|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_87|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Events|200mgQD8Wk-100mgQD|Weibull|Application_9|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Undefined Liver|Reference concentration",
-          "Value": 1.0,
-          "Unit": "µmol/l"
-        },
-        {
-          "Path": "Undefined Liver|t1/2 (intestine)",
-          "Value": 23.0,
-          "Unit": "h"
-        },
-        {
-          "Path": "Undefined Liver|t1/2 (liver)",
-          "Value": 36.0,
-          "Unit": "h"
-        }
-      ],
-      "OutputSelections": [
-        "Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|Bedaquiline|Plasma Unbound (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma Unbound (Peripheral Venous Blood)",
-        "Organism|Lung|Bedaquiline|Interstitial Unbound",
-        "Organism|Lung|N-desmethyl BDQ (M2)|Interstitial Unbound",
-        "Organism|Lung|Bedaquiline|Intracellular Unbound",
-        "Organism|Lung|N-desmethyl BDQ (M2)|Intracellular Unbound",
-        "Organism|Lung|Interstitial|Bedaquiline|Concentration in container",
-        "Organism|Lung|Interstitial|N-desmethyl BDQ (M2)|Concentration in container",
-        "Organism|Lung|Intracellular|Bedaquiline|Concentration in container",
-        "Organism|Lung|Intracellular|N-desmethyl BDQ (M2)|Concentration in container",
-        "Organism|Brain|Interstitial|Bedaquiline|Concentration in container",
-        "Organism|Brain|Interstitial|N-desmethyl BDQ (M2)|Concentration in container",
-        "Organism|Brain|Intracellular|Bedaquiline|Concentration in container",
-        "Organism|Brain|Intracellular|N-desmethyl BDQ (M2)|Concentration in container",
-        "Organism|Brain|Bedaquiline|Interstitial Unbound",
-        "Organism|Brain|N-desmethyl BDQ (M2)|Interstitial Unbound",
-        "Organism|Brain|Bedaquiline|Intracellular Unbound",
-        "Organism|Brain|N-desmethyl BDQ (M2)|Intracellular Unbound"
-      ],
-      "Individual": "TBPat",
-      "Compounds": [
-        {
-          "Name": "Bedaquiline",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - PK-Sim Standard",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-Liu 2014",
-              "MoleculeName": "CYP3A4",
-              "MetaboliteName": "N-desmethyl BDQ (M2)"
-            },
-            {
-              "Name": "CYP2C8-Liu 2014",
-              "MoleculeName": "CYP2C8",
-              "MetaboliteName": "N-desmethyl BDQ (M2)"
-            },
-            {
-              "Name": "Total Hepatic Clearance-Gaohua2015_S2_CLAdd",
-              "SystemicProcessType": "Hepatic"
-            }
-          ],
-          "Protocol": {
-            "Name": "200mgQD8Wk-100mgQD",
-            "Formulations": [
-              {
-                "Name": "Weibull",
-                "Key": "Formulation"
-              }
-            ]
-          }
-        },
-        {
-          "Name": "N-desmethyl BDQ (M2)",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - PK-Sim Standard",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Processes": [
-            {
-              "Name": "Total Hepatic Clearance-Gaohua2015_S1",
-              "SystemicProcessType": "Hepatic"
-            }
-          ]
-        }
-      ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "ng/ml",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "N-desmethyl BDQ (M2)-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "200mgQD8wk-100mgQD|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#0000FF",
-                "LegendIndex": 6
-              }
-            },
-            {
-              "Name": "Bedaquiline-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "200mgQD8wk-100mgQD|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 5
-              }
-            }
-          ],
-          "Name": "Bedaquiline PO 200 mg QD; 100 mg QD",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "BottomInside",
-            "BackColor": "#FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "OriginText": "Bedaquiline_M2_V12_final\n200mgQD8wk-100mgQD\n2025-06-12 17:39"
+          "OriginText": "Bedaquiline\n700_500_400\n2025-09-22 16:59"
         }
       ]
     },
@@ -3064,13 +2464,6 @@
       "Name": "400mgQD_200mg_TIW",
       "Model": "4Comp",
       "ObservedData": [
-        "NCT02583048_Bedaquiline_1_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-        "NCT02583048_Bedaquiline_2_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-        "NCT02583048_Bedaquiline_3_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-        "NCT02583048_Bedaquiline_4_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-        "NCT02583048_Bedaquiline_5_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-        "NCT02583048_Bedaquiline_6_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-        "NCT02583048_Bedaquiline_7_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
         "NCT02583048_Bedaquiline_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
         "NCT02583048_Bedaquiline_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
         "NCT02583048_Bedaquiline_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
@@ -3078,13 +2471,6 @@
         "NCT02583048_Bedaquiline_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
         "NCT02583048_Bedaquiline_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
         "NCT02583048_Bedaquiline_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
-        "NCT02583048_N-desmethyl BDQ (M2)_1_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-        "NCT02583048_N-desmethyl BDQ (M2)_2_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-        "NCT02583048_N-desmethyl BDQ (M2)_3_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-        "NCT02583048_N-desmethyl BDQ (M2)_4_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-        "NCT02583048_N-desmethyl BDQ (M2)_5_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-        "NCT02583048_N-desmethyl BDQ (M2)_6_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-        "NCT02583048_N-desmethyl BDQ (M2)_7_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
         "NCT02583048_N-desmethyl BDQ (M2)_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
         "NCT02583048_N-desmethyl BDQ (M2)_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
         "NCT02583048_N-desmethyl BDQ (M2)_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
@@ -3643,6 +3029,78 @@
         "Organism|Brain|Bedaquiline|Intracellular Unbound",
         "Organism|Brain|N-desmethyl BDQ (M2)|Intracellular Unbound"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_Bedaquiline_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_Bedaquiline_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_Bedaquiline_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_Bedaquiline_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_Bedaquiline_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_Bedaquiline_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_Bedaquiline_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        }
+      ],
       "Individual": "TBPat",
       "Compounds": [
         {
@@ -3950,7 +3408,7 @@
             },
             {
               "Name": "End time",
-              "Value": 384.0,
+              "Value": 168.0,
               "Unit": "h"
             },
             {
@@ -4085,6 +3543,13 @@
         "Organism|Brain|Bedaquiline|Intracellular Unbound",
         "Organism|Brain|N-desmethyl BDQ (M2)|Intracellular Unbound"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "400_300_200_(2)|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__"
+        }
+      ],
       "Individual": "TBPat",
       "Compounds": [
         {
@@ -4200,7 +3665,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Bedaquiline_M2_V12_final\n400_300_200_copy\n2025-06-12 17:42"
+          "OriginText": "Bedaquiline\n400_300_200_(2)\n2025-09-22 16:58"
         }
       ]
     }
@@ -4997,657 +4462,6 @@
       }
     },
     {
-      "Name": "NCT02583048_Bedaquiline_1_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-      "ExtendedProperties": [
-        {
-          "Name": "Sheet",
-          "Value": "Upton 2013",
-          "Type": "String"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "NCT02583048",
-          "Type": "String"
-        },
-        {
-          "Name": "Subject Id",
-          "Value": "1",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Spinal-CSF",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "Bedaquiline 400_200 mg QD",
-          "Type": "String"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "Bedaquiline",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Measurement",
-          "RelatedColumns": [
-            {
-              "Name": "Error",
-              "QuantityInfo": {
-                "Path": "NCT02583048_Bedaquiline_1_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|Bedaquiline|Error"
-              },
-              "DataInfo": {
-                "Origin": "ObservationAuxiliary",
-                "AuxiliaryType": "ArithmeticStdDev",
-                "MolWeight": 555.5,
-                "LLOQ": 0.0
-              },
-              "Values": [
-                0.0
-              ],
-              "Dimension": "Concentration (mass)",
-              "Unit": "ng/ml"
-            }
-          ],
-          "QuantityInfo": {
-            "Path": "NCT02583048_Bedaquiline_1_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|Bedaquiline|Measurement"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 555.5
-          },
-          "Values": [
-            0.704
-          ],
-          "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "NCT02583048_Bedaquiline_1_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          4015.0
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
-      "Name": "NCT02583048_Bedaquiline_2_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-      "ExtendedProperties": [
-        {
-          "Name": "Sheet",
-          "Value": "Upton 2013",
-          "Type": "String"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "NCT02583048",
-          "Type": "String"
-        },
-        {
-          "Name": "Subject Id",
-          "Value": "2",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Spinal-CSF",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "Bedaquiline 400_200 mg QD",
-          "Type": "String"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "Bedaquiline",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Measurement",
-          "RelatedColumns": [
-            {
-              "Name": "Error",
-              "QuantityInfo": {
-                "Path": "NCT02583048_Bedaquiline_2_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|Bedaquiline|Error"
-              },
-              "DataInfo": {
-                "Origin": "ObservationAuxiliary",
-                "AuxiliaryType": "ArithmeticStdDev",
-                "MolWeight": 555.5,
-                "LLOQ": 0.0
-              },
-              "Values": [
-                0.0
-              ],
-              "Dimension": "Concentration (mass)",
-              "Unit": "ng/ml"
-            }
-          ],
-          "QuantityInfo": {
-            "Path": "NCT02583048_Bedaquiline_2_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|Bedaquiline|Measurement"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 555.5
-          },
-          "Values": [
-            3.79
-          ],
-          "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "NCT02583048_Bedaquiline_2_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          4013.0
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
-      "Name": "NCT02583048_Bedaquiline_3_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-      "ExtendedProperties": [
-        {
-          "Name": "Sheet",
-          "Value": "Upton 2013",
-          "Type": "String"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "NCT02583048",
-          "Type": "String"
-        },
-        {
-          "Name": "Subject Id",
-          "Value": "3",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Spinal-CSF",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "Bedaquiline 400_200 mg QD",
-          "Type": "String"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "Bedaquiline",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Measurement",
-          "RelatedColumns": [
-            {
-              "Name": "Error",
-              "QuantityInfo": {
-                "Path": "NCT02583048_Bedaquiline_3_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|Bedaquiline|Error"
-              },
-              "DataInfo": {
-                "Origin": "ObservationAuxiliary",
-                "AuxiliaryType": "ArithmeticStdDev",
-                "MolWeight": 555.5,
-                "LLOQ": 0.0
-              },
-              "Values": [
-                0.0
-              ],
-              "Dimension": "Concentration (mass)",
-              "Unit": "ng/ml"
-            }
-          ],
-          "QuantityInfo": {
-            "Path": "NCT02583048_Bedaquiline_3_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|Bedaquiline|Measurement"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 555.5
-          },
-          "Values": [
-            0.855
-          ],
-          "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "NCT02583048_Bedaquiline_3_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          4013.0
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
-      "Name": "NCT02583048_Bedaquiline_4_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-      "ExtendedProperties": [
-        {
-          "Name": "Sheet",
-          "Value": "Upton 2013",
-          "Type": "String"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "NCT02583048",
-          "Type": "String"
-        },
-        {
-          "Name": "Subject Id",
-          "Value": "4",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Spinal-CSF",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "Bedaquiline 400_200 mg QD",
-          "Type": "String"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "Bedaquiline",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Measurement",
-          "RelatedColumns": [
-            {
-              "Name": "Error",
-              "QuantityInfo": {
-                "Path": "NCT02583048_Bedaquiline_4_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|Bedaquiline|Error"
-              },
-              "DataInfo": {
-                "Origin": "ObservationAuxiliary",
-                "AuxiliaryType": "ArithmeticStdDev",
-                "MolWeight": 555.5,
-                "LLOQ": 0.0
-              },
-              "Values": [
-                0.0
-              ],
-              "Dimension": "Concentration (mass)",
-              "Unit": "ng/ml"
-            }
-          ],
-          "QuantityInfo": {
-            "Path": "NCT02583048_Bedaquiline_4_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|Bedaquiline|Measurement"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 555.5
-          },
-          "Values": [
-            0.43
-          ],
-          "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "NCT02583048_Bedaquiline_4_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          4013.0
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
-      "Name": "NCT02583048_Bedaquiline_5_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-      "ExtendedProperties": [
-        {
-          "Name": "Sheet",
-          "Value": "Upton 2013",
-          "Type": "String"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "NCT02583048",
-          "Type": "String"
-        },
-        {
-          "Name": "Subject Id",
-          "Value": "5",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Spinal-CSF",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "Bedaquiline 400_200 mg QD",
-          "Type": "String"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "Bedaquiline",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Measurement",
-          "RelatedColumns": [
-            {
-              "Name": "Error",
-              "QuantityInfo": {
-                "Path": "NCT02583048_Bedaquiline_5_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|Bedaquiline|Error"
-              },
-              "DataInfo": {
-                "Origin": "ObservationAuxiliary",
-                "AuxiliaryType": "ArithmeticStdDev",
-                "MolWeight": 555.5,
-                "LLOQ": 0.0
-              },
-              "Values": [
-                0.0
-              ],
-              "Dimension": "Concentration (mass)",
-              "Unit": "ng/ml"
-            }
-          ],
-          "QuantityInfo": {
-            "Path": "NCT02583048_Bedaquiline_5_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|Bedaquiline|Measurement"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 555.5
-          },
-          "Values": [
-            2.45
-          ],
-          "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "NCT02583048_Bedaquiline_5_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          4015.0
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
-      "Name": "NCT02583048_Bedaquiline_6_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-      "ExtendedProperties": [
-        {
-          "Name": "Sheet",
-          "Value": "Upton 2013",
-          "Type": "String"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "NCT02583048",
-          "Type": "String"
-        },
-        {
-          "Name": "Subject Id",
-          "Value": "6",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Spinal-CSF",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "Bedaquiline 400_200 mg QD",
-          "Type": "String"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "Bedaquiline",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Measurement",
-          "RelatedColumns": [
-            {
-              "Name": "Error",
-              "QuantityInfo": {
-                "Path": "NCT02583048_Bedaquiline_6_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|Bedaquiline|Error"
-              },
-              "DataInfo": {
-                "Origin": "ObservationAuxiliary",
-                "AuxiliaryType": "ArithmeticStdDev",
-                "MolWeight": 555.5,
-                "LLOQ": 0.0
-              },
-              "Values": [
-                0.0
-              ],
-              "Dimension": "Concentration (mass)",
-              "Unit": "ng/ml"
-            }
-          ],
-          "QuantityInfo": {
-            "Path": "NCT02583048_Bedaquiline_6_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|Bedaquiline|Measurement"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 555.5
-          },
-          "Values": [
-            0.44599998
-          ],
-          "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "NCT02583048_Bedaquiline_6_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          4018.0
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
-      "Name": "NCT02583048_Bedaquiline_7_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-      "ExtendedProperties": [
-        {
-          "Name": "Sheet",
-          "Value": "Upton 2013",
-          "Type": "String"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "NCT02583048",
-          "Type": "String"
-        },
-        {
-          "Name": "Subject Id",
-          "Value": "7",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Spinal-CSF",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "Bedaquiline 400_200 mg QD",
-          "Type": "String"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "Bedaquiline",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Measurement",
-          "RelatedColumns": [
-            {
-              "Name": "Error",
-              "QuantityInfo": {
-                "Path": "NCT02583048_Bedaquiline_7_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|Bedaquiline|Error"
-              },
-              "DataInfo": {
-                "Origin": "ObservationAuxiliary",
-                "AuxiliaryType": "ArithmeticStdDev",
-                "MolWeight": 555.5,
-                "LLOQ": 0.0
-              },
-              "Values": [
-                0.0
-              ],
-              "Dimension": "Concentration (mass)",
-              "Unit": "ng/ml"
-            }
-          ],
-          "QuantityInfo": {
-            "Path": "NCT02583048_Bedaquiline_7_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|Bedaquiline|Measurement"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 555.5
-          },
-          "Values": [
-            1.63
-          ],
-          "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "NCT02583048_Bedaquiline_7_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          4015.0
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
       "Name": "NCT02583048_Bedaquiline_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
       "ExtendedProperties": [
         {
@@ -6320,657 +5134,6 @@
         "Name": "Time",
         "QuantityInfo": {
           "Path": "NCT02583048_Bedaquiline_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          4015.0
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
-      "Name": "NCT02583048_N-desmethyl BDQ (M2)_1_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-      "ExtendedProperties": [
-        {
-          "Name": "Sheet",
-          "Value": "Upton 2013",
-          "Type": "String"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "NCT02583048",
-          "Type": "String"
-        },
-        {
-          "Name": "Subject Id",
-          "Value": "1",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Spinal-CSF",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "Bedaquiline 400_200 mg QD",
-          "Type": "String"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "N-desmethyl BDQ (M2)",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Measurement",
-          "RelatedColumns": [
-            {
-              "Name": "Error",
-              "QuantityInfo": {
-                "Path": "NCT02583048_N-desmethyl BDQ (M2)_1_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|N-desmethyl BDQ (M2)|Error"
-              },
-              "DataInfo": {
-                "Origin": "ObservationAuxiliary",
-                "AuxiliaryType": "ArithmeticStdDev",
-                "MolWeight": 541.0,
-                "LLOQ": 0.0
-              },
-              "Values": [
-                0.0
-              ],
-              "Dimension": "Concentration (mass)",
-              "Unit": "ng/ml"
-            }
-          ],
-          "QuantityInfo": {
-            "Path": "NCT02583048_N-desmethyl BDQ (M2)_1_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|N-desmethyl BDQ (M2)|Measurement"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 541.0
-          },
-          "Values": [
-            0.175
-          ],
-          "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "NCT02583048_N-desmethyl BDQ (M2)_1_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          4015.0
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
-      "Name": "NCT02583048_N-desmethyl BDQ (M2)_2_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-      "ExtendedProperties": [
-        {
-          "Name": "Sheet",
-          "Value": "Upton 2013",
-          "Type": "String"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "NCT02583048",
-          "Type": "String"
-        },
-        {
-          "Name": "Subject Id",
-          "Value": "2",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Spinal-CSF",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "Bedaquiline 400_200 mg QD",
-          "Type": "String"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "N-desmethyl BDQ (M2)",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Measurement",
-          "RelatedColumns": [
-            {
-              "Name": "Error",
-              "QuantityInfo": {
-                "Path": "NCT02583048_N-desmethyl BDQ (M2)_2_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|N-desmethyl BDQ (M2)|Error"
-              },
-              "DataInfo": {
-                "Origin": "ObservationAuxiliary",
-                "AuxiliaryType": "ArithmeticStdDev",
-                "MolWeight": 541.0,
-                "LLOQ": 0.0
-              },
-              "Values": [
-                0.0
-              ],
-              "Dimension": "Concentration (mass)",
-              "Unit": "ng/ml"
-            }
-          ],
-          "QuantityInfo": {
-            "Path": "NCT02583048_N-desmethyl BDQ (M2)_2_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|N-desmethyl BDQ (M2)|Measurement"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 541.0
-          },
-          "Values": [
-            1.4
-          ],
-          "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "NCT02583048_N-desmethyl BDQ (M2)_2_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          4013.0
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
-      "Name": "NCT02583048_N-desmethyl BDQ (M2)_3_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-      "ExtendedProperties": [
-        {
-          "Name": "Sheet",
-          "Value": "Upton 2013",
-          "Type": "String"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "NCT02583048",
-          "Type": "String"
-        },
-        {
-          "Name": "Subject Id",
-          "Value": "3",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Spinal-CSF",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "Bedaquiline 400_200 mg QD",
-          "Type": "String"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "N-desmethyl BDQ (M2)",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Measurement",
-          "RelatedColumns": [
-            {
-              "Name": "Error",
-              "QuantityInfo": {
-                "Path": "NCT02583048_N-desmethyl BDQ (M2)_3_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|N-desmethyl BDQ (M2)|Error"
-              },
-              "DataInfo": {
-                "Origin": "ObservationAuxiliary",
-                "AuxiliaryType": "ArithmeticStdDev",
-                "MolWeight": 541.0,
-                "LLOQ": 0.0
-              },
-              "Values": [
-                0.0
-              ],
-              "Dimension": "Concentration (mass)",
-              "Unit": "ng/ml"
-            }
-          ],
-          "QuantityInfo": {
-            "Path": "NCT02583048_N-desmethyl BDQ (M2)_3_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|N-desmethyl BDQ (M2)|Measurement"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 541.0
-          },
-          "Values": [
-            0.47299996
-          ],
-          "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "NCT02583048_N-desmethyl BDQ (M2)_3_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          4013.0
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
-      "Name": "NCT02583048_N-desmethyl BDQ (M2)_4_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-      "ExtendedProperties": [
-        {
-          "Name": "Sheet",
-          "Value": "Upton 2013",
-          "Type": "String"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "NCT02583048",
-          "Type": "String"
-        },
-        {
-          "Name": "Subject Id",
-          "Value": "4",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Spinal-CSF",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "Bedaquiline 400_200 mg QD",
-          "Type": "String"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "N-desmethyl BDQ (M2)",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Measurement",
-          "RelatedColumns": [
-            {
-              "Name": "Error",
-              "QuantityInfo": {
-                "Path": "NCT02583048_N-desmethyl BDQ (M2)_4_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|N-desmethyl BDQ (M2)|Error"
-              },
-              "DataInfo": {
-                "Origin": "ObservationAuxiliary",
-                "AuxiliaryType": "ArithmeticStdDev",
-                "MolWeight": 541.0,
-                "LLOQ": 0.0
-              },
-              "Values": [
-                0.0
-              ],
-              "Dimension": "Concentration (mass)",
-              "Unit": "ng/ml"
-            }
-          ],
-          "QuantityInfo": {
-            "Path": "NCT02583048_N-desmethyl BDQ (M2)_4_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|N-desmethyl BDQ (M2)|Measurement"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 541.0
-          },
-          "Values": [
-            0.2
-          ],
-          "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "NCT02583048_N-desmethyl BDQ (M2)_4_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          4013.0
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
-      "Name": "NCT02583048_N-desmethyl BDQ (M2)_5_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-      "ExtendedProperties": [
-        {
-          "Name": "Sheet",
-          "Value": "Upton 2013",
-          "Type": "String"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "NCT02583048",
-          "Type": "String"
-        },
-        {
-          "Name": "Subject Id",
-          "Value": "5",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Spinal-CSF",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "Bedaquiline 400_200 mg QD",
-          "Type": "String"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "N-desmethyl BDQ (M2)",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Measurement",
-          "RelatedColumns": [
-            {
-              "Name": "Error",
-              "QuantityInfo": {
-                "Path": "NCT02583048_N-desmethyl BDQ (M2)_5_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|N-desmethyl BDQ (M2)|Error"
-              },
-              "DataInfo": {
-                "Origin": "ObservationAuxiliary",
-                "AuxiliaryType": "ArithmeticStdDev",
-                "MolWeight": 541.0,
-                "LLOQ": 0.0
-              },
-              "Values": [
-                0.0
-              ],
-              "Dimension": "Concentration (mass)",
-              "Unit": "ng/ml"
-            }
-          ],
-          "QuantityInfo": {
-            "Path": "NCT02583048_N-desmethyl BDQ (M2)_5_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|N-desmethyl BDQ (M2)|Measurement"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 541.0
-          },
-          "Values": [
-            1.32
-          ],
-          "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "NCT02583048_N-desmethyl BDQ (M2)_5_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          4015.0
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
-      "Name": "NCT02583048_N-desmethyl BDQ (M2)_6_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-      "ExtendedProperties": [
-        {
-          "Name": "Sheet",
-          "Value": "Upton 2013",
-          "Type": "String"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "NCT02583048",
-          "Type": "String"
-        },
-        {
-          "Name": "Subject Id",
-          "Value": "6",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Spinal-CSF",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "Bedaquiline 400_200 mg QD",
-          "Type": "String"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "N-desmethyl BDQ (M2)",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Measurement",
-          "RelatedColumns": [
-            {
-              "Name": "Error",
-              "QuantityInfo": {
-                "Path": "NCT02583048_N-desmethyl BDQ (M2)_6_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|N-desmethyl BDQ (M2)|Error"
-              },
-              "DataInfo": {
-                "Origin": "ObservationAuxiliary",
-                "AuxiliaryType": "ArithmeticStdDev",
-                "MolWeight": 541.0,
-                "LLOQ": 0.0
-              },
-              "Values": [
-                0.0
-              ],
-              "Dimension": "Concentration (mass)",
-              "Unit": "ng/ml"
-            }
-          ],
-          "QuantityInfo": {
-            "Path": "NCT02583048_N-desmethyl BDQ (M2)_6_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|N-desmethyl BDQ (M2)|Measurement"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 541.0
-          },
-          "Values": [
-            0.138
-          ],
-          "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "NCT02583048_N-desmethyl BDQ (M2)_6_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          4018.0
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
-      "Name": "NCT02583048_N-desmethyl BDQ (M2)_7_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-      "ExtendedProperties": [
-        {
-          "Name": "Sheet",
-          "Value": "Upton 2013",
-          "Type": "String"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "NCT02583048",
-          "Type": "String"
-        },
-        {
-          "Name": "Subject Id",
-          "Value": "7",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Spinal-CSF",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "Bedaquiline 400_200 mg QD",
-          "Type": "String"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "N-desmethyl BDQ (M2)",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Measurement",
-          "RelatedColumns": [
-            {
-              "Name": "Error",
-              "QuantityInfo": {
-                "Path": "NCT02583048_N-desmethyl BDQ (M2)_7_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|N-desmethyl BDQ (M2)|Error"
-              },
-              "DataInfo": {
-                "Origin": "ObservationAuxiliary",
-                "AuxiliaryType": "ArithmeticStdDev",
-                "MolWeight": 541.0,
-                "LLOQ": 0.0
-              },
-              "Values": [
-                0.0
-              ],
-              "Dimension": "Concentration (mass)",
-              "Unit": "ng/ml"
-            }
-          ],
-          "QuantityInfo": {
-            "Path": "NCT02583048_N-desmethyl BDQ (M2)_7_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|ObservedData||Spinal-CSF|N-desmethyl BDQ (M2)|Measurement"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 541.0
-          },
-          "Values": [
-            0.457
-          ],
-          "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "NCT02583048_N-desmethyl BDQ (M2)_7_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -7719,13 +5882,6 @@
         {
           "Name": "Bedaquiline 400_200 mg QD",
           "Classifiables": [
-            "NCT02583048_Bedaquiline_1_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-            "NCT02583048_Bedaquiline_2_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-            "NCT02583048_Bedaquiline_3_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-            "NCT02583048_Bedaquiline_4_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-            "NCT02583048_Bedaquiline_5_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-            "NCT02583048_Bedaquiline_6_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-            "NCT02583048_Bedaquiline_7_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
             "NCT02583048_Bedaquiline_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
             "NCT02583048_Bedaquiline_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
             "NCT02583048_Bedaquiline_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
@@ -7733,13 +5889,6 @@
             "NCT02583048_Bedaquiline_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
             "NCT02583048_Bedaquiline_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
             "NCT02583048_Bedaquiline_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
-            "NCT02583048_N-desmethyl BDQ (M2)_1_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-            "NCT02583048_N-desmethyl BDQ (M2)_2_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-            "NCT02583048_N-desmethyl BDQ (M2)_3_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-            "NCT02583048_N-desmethyl BDQ (M2)_4_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-            "NCT02583048_N-desmethyl BDQ (M2)_5_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-            "NCT02583048_N-desmethyl BDQ (M2)_6_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
-            "NCT02583048_N-desmethyl BDQ (M2)_7_Human__Spinal-CSF_Bedaquiline 400_200 mg QD__",
             "NCT02583048_N-desmethyl BDQ (M2)_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
             "NCT02583048_N-desmethyl BDQ (M2)_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
             "NCT02583048_N-desmethyl BDQ (M2)_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
@@ -7763,10 +5912,10 @@
       "Name": "Model validation",
       "Classifiables": [
         "200_100",
-        "400_300_200_(2)",
-        "400mgQD_200mg_TIW",
+        "500_400_300",
         "700_500_400",
-        "500_400_300"
+        "400mgQD_200mg_TIW",
+        "400_300_200_(2)"
       ]
     }
   ]
