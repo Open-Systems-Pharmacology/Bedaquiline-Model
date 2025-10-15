@@ -77,7 +77,7 @@ createQualificationReport <- function(qualificationRunnerFolder,
   #' Default is no watermark. `Label` objects from `tlf` package can be used to specify watermark font.
   watermark <- ""
 
-  #' If not set, report created will be named `report.md` and located in the worflow folder namely `reOutputFolder`
+  #' If not set, report created will be named `report.md` and located in the workflow folder namely `reOutputFolder`
   reportFolder <- file.path(workingDirectory, "report")
   reportPath <- file.path(reportFolder, "report.md")
 
