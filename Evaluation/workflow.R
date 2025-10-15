@@ -74,7 +74,7 @@ createQualificationReport <- function(qualificationRunnerFolder,
   recordWorkflowTime <- TRUE
 
   #' Set watermark that will appear in all generated plots
-  #' Default is no watermark. `Label` objects from `tlf` package can be used to specifiy watermark font.
+  #' Default is no watermark. `Label` objects from `tlf` package can be used to specify watermark font.
   watermark <- ""
 
   #' If not set, report created will be named `report.md` and located in the worflow folder namely `reOutputFolder`
