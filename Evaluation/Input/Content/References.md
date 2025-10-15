@@ -14,9 +14,9 @@
 
 **PK-Sim Ontogeny Database Version 7.3** ([https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation/blob/38cf71b384cfc25cfa0ce4d2f3addfd32757e13b/PK-Sim%20Ontogeny%20Database%20Version%207.3.pdf](https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation/blob/38cf71b384cfc25cfa0ce4d2f3addfd32757e13b/PK-Sim%20Ontogeny%20Database%20Version%207.3.pdf))	
 
-**Pubchem CID 5388906** https://pubchem.ncbi.nlm.nih.gov/compound/Bedaquiline
+**PubChem CID 5388906** https://pubchem.ncbi.nlm.nih.gov/compound/Bedaquiline
 
-**Pubchem CID 58853307** https://pubchem.ncbi.nlm.nih.gov/compound/58853307
+**PubChem CID 58853307** https://pubchem.ncbi.nlm.nih.gov/compound/58853307
 
 **Schlender 2016** Schlender JF, Meyer M, Thelen K, Krauss M, Willmann S, Eissing T, Jaehde U. Development of a Whole-Body Physiologically Based Pharmacokinetic Approach to Assess the Pharmacokinetics of Drugs in Elderly Individuals. Clin Pharmacokinet. 2016 Dec;55(12):1573-1589. 	
 
