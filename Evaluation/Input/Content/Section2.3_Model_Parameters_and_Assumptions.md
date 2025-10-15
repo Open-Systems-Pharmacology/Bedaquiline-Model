@@ -1,6 +1,6 @@
 ### Absorption <a id="model-parameters-and-assumptions-absorption"></a>
 
-Bedaquiline oral absorption is atypical with delay and double peaks. A Weibull function was selected in PK-Sm to describe the atypical absorption profile of bedaquiline and parameter identification was performed to fit weibull parameters (`Weibull dissolution time (50% dissolved)` and `Weibull dissolution shape`) to observed plasma concentrations.
+Bedaquiline oral absorption is atypical with delay and double peaks. A Weibull function was selected in PK-Sim to describe the atypical absorption profile of bedaquiline and parameter identification was performed to fit weibull parameters (`Weibull dissolution time (50% dissolved)` and `Weibull dissolution shape`) to observed plasma concentrations.
 
 ### Distribution <a id="model-parameters-and-assumptions-distribution"></a>
 
