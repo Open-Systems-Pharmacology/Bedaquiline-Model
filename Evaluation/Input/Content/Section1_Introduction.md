@@ -8,5 +8,5 @@ Bedaquiline shows low solubility but high permeability, and is therefore classif
 
 The herein presented model building and evaluation report evaluates the performance of the PBPK model for bedaquiline and M2 in adults. The model was developed using data of 3 clinical studies (dosing range 100–700 mg) for oral administration. 
 
-The presented bedaquiline PBPK model as well as the respective evaluation plan and evaluation report are provided open-source ([https://github.com/Open-Systems-Pharmacology/Bedaquilin-Model](https://github.com/Open-Systems-Pharmacology/Bedaquiline-Model)).
+The presented bedaquiline PBPK model as well as the respective evaluation plan and evaluation report are provided open-source ([https://github.com/Open-Systems-Pharmacology/Bedaquiline-Model](https://github.com/Open-Systems-Pharmacology/Bedaquiline-Model)).
 
