@@ -69,7 +69,7 @@ createQualificationReport <- function(qualificationRunnerFolder,
   configurationPlanName <- "report-configuration-plan"
   configurationPlanFile <- file.path(reInputFolder, paste0(configurationPlanName, ".json"))
 
-  #' Option to record the time require to run the workflow.
+  #' Option to record the time required to run the workflow.
   #' The timer will calculate calculation time from internal `Sys.time` function
   recordWorkflowTime <- TRUE
 
