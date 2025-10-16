@@ -37,6 +37,6 @@ The following studies were used for model verification:
 
 | Publication                 | Arm / Treatment / Information used for model building |
 | :-------------------------- | :---------------------------------------------------- |
-| NTC01215110  | Tuberculosis patients with 4 different dosing levels, (including 200-100 mg QD, 500-400-300 mg QD, and 700-500-400 mg QD)          |
+| NCT01215110  | Tuberculosis patients with 4 different dosing levels, (including 200-100 mg QD, 500-400-300 mg QD, and 700-500-400 mg QD)          |
 | [Upton 2022](#main-references)                         | Tuberculosis patients with bedaquiline 400 mg QD  followed by 200 mg thrice weekly                                                  |
 
