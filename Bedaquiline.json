@@ -1,0 +1,5922 @@
+{
+  "Version": 80,
+  "ExpressionProfiles": [
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP3A4",
+      "Category": "Healthy",
+      "Parameters": [
+        {
+          "Path": "CYP3A4|Reference concentration",
+          "Value": 4.32,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (liver)",
+          "Value": 2220.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Organism|Bone|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0474876827
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0365758743
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0321151106
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0359474696
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0364793891
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0664039988
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0664039988
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0664039988
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0664039988
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0664039988
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0367184533
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0313793999
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0181906811
+        },
+        {
+          "Path": "Organism|Skin|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0395939698
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.3998822712
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.3998822712
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.3998822712
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.3998822712
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.3998822712
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.3998822712
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0349421161
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0439204681
+        }
+      ],
+      "Localization": "Intracellular",
+      "Ontogeny": {
+        "Name": "CYP3A4"
+      }
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP2C8",
+      "Category": "Healthy",
+      "Parameters": [
+        {
+          "Path": "CYP2C8|Reference concentration",
+          "Value": 2.56,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP2C8|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "CYP2C8|t1/2 (liver)",
+          "Value": 1380.0000855,
+          "Unit": "min"
+        },
+        {
+          "Path": "Organism|Bone|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0302136446
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0544736647
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0501959251
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.036990416
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.027248015
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0321855712
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0321855712
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0321855712
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0321855712
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0321855712
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP2C8|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP2C8|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0315349876
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0404489234
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0064919522895
+        },
+        {
+          "Path": "Organism|Skin|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.026195639
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0073368173534
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0073368173534
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0073368173534
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0073368173534
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0073368173534
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0073368173534
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0087247134669
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|CYP2C8|Relative expression",
+          "Value": 0.0759117063
+        }
+      ],
+      "Localization": "Intracellular",
+      "Ontogeny": {
+        "Name": "CYP2C8"
+      }
+    }
+  ],
+  "Individuals": [
+    {
+      "Name": "TBPat",
+      "Seed": 353960062,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "BlackAmerican_NHANES_1997",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 30.0,
+          "Unit": "year(s)"
+        },
+        "Weight": {
+          "Value": 60.0,
+          "Unit": "kg"
+        },
+        "Height": {
+          "Value": 170.0,
+          "Unit": "cm"
+        }
+      },
+      "ExpressionProfiles": [
+        "CYP3A4|Human|Healthy",
+        "CYP2C8|Human|Healthy"
+      ]
+    }
+  ],
+  "Compounds": [
+    {
+      "Name": "Bedaquiline",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "LogDow",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 5.14,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Gaohua 2015 S1"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Gaohua2015",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.0003,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Assumption",
+                "Description": "Gaohua2015 S1"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 1.0,
+              "Unit": "mg/ml",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Assumption",
+                "Description": "Poorly soluble in water; assumed very low solubility"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Assumption",
+                "Description": "Poorly soluble in water; assumed very low solubility"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 9.1,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Method": "InVitro",
+            "Description": "Gaohua 2015"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "Gaohua2015_S2_CLAdd",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.1
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 5.14,
+              "Unit": "Log Units"
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.03,
+              "Unit": "l/h/kg",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "ManualFit",
+                "Description": "Gaohua 2014"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationSpecific_MM",
+          "DataSource": "Liu 2014",
+          "Molecule": "CYP3A4",
+          "Metabolite": "N-desmethyl BDQ (M2)",
+          "Parameters": [
+            {
+              "Name": "Enzyme concentration",
+              "Value": 4.32,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "Vmax",
+              "Value": 407.8491133353,
+              "Unit": "µmol/l/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2024-01-19 13:38"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 8.5,
+              "Unit": "µmol/l"
+            }
+          ]
+        },
+        {
+          "InternalName": "MetabolizationSpecific_MM",
+          "DataSource": "Liu 2014",
+          "Molecule": "CYP2C8",
+          "Metabolite": "N-desmethyl BDQ (M2)",
+          "Parameters": [
+            {
+              "Name": "Enzyme concentration",
+              "Value": 2.56,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "Vmax",
+              "Value": 163.73,
+              "Unit": "µmol/l/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2024-01-19 13:38"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 13.1,
+              "Unit": "µmol/l"
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - PK-Sim Standard",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Cl",
+          "Value": 2.0,
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "InVitro",
+            "Description": "FDA Bedaquiline Label"
+          }
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 555.5,
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "InVitro",
+            "Description": "FDA Bedaquiline Label"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "N-desmethyl BDQ (M2)",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "LogPow",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 6.51,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Other",
+                "Description": "Gaohua2015_S1"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.0005,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "Other",
+                "Description": "Gaohua2015_S1"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 1.0,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Assumption"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "Other",
+                "Method": "Assumption"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 8.35,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "Gaohua2015_S1",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.0005
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 6.51,
+              "Unit": "Log Units"
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.14,
+              "Unit": "l/h/kg",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2023-11-10 09:39"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - PK-Sim Standard",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Cl",
+          "Value": 2.0,
+          "ValueOrigin": {
+            "Source": "Other",
+            "Method": "Assumption",
+            "Description": "Predicted"
+          }
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 541.0,
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Other",
+            "Method": "Assumption",
+            "Description": "Predicted"
+          }
+        }
+      ]
+    }
+  ],
+  "Formulations": [
+    {
+      "Name": "Weibull",
+      "FormulationType": "Formulation_Tablet_Weibull",
+      "Parameters": [
+        {
+          "Name": "Dissolution time (50% dissolved)",
+          "Value": 125.2093172096,
+          "Unit": "min",
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'Parameter Identification 1' on 2024-01-19 13:38"
+          }
+        },
+        {
+          "Name": "Lag time",
+          "Value": 0.0,
+          "Unit": "min",
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'Parameter Identification 2' on 2023-05-19 00:30"
+          }
+        },
+        {
+          "Name": "Dissolution shape",
+          "Value": 1.5078626777,
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'Parameter Identification 1' on 2024-01-19 13:38"
+          }
+        },
+        {
+          "Name": "Use as suspension",
+          "Value": 0.0
+        }
+      ]
+    }
+  ],
+  "Protocols": [
+    {
+      "Name": "400-300-200-mgPO",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 400.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            },
+            {
+              "Name": "Schema Item 2",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 24.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 300.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        },
+        {
+          "Name": "Schema 2",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 48.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 200.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 15.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "700-500-400-mgPO",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 700.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            },
+            {
+              "Name": "Schema Item 2",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 24.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 500.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        },
+        {
+          "Name": "Schema 2",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 48.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 400.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 15.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "200-100-mgPO",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 200.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        },
+        {
+          "Name": "Schema 2",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 100.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 24.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 15.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "500-400-300-mgPO",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 500.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            },
+            {
+              "Name": "Schema Item 2",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 24.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 400.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        },
+        {
+          "Name": "Schema 2",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 48.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 300.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 15.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "400QD-200TIW_mgPO",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 400.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 14.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h"
+            }
+          ]
+        },
+        {
+          "Name": "Schema 2",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 368.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 200.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 80.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 56.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "200mgQD8Wk-100mgQD",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 200.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 59.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h"
+            }
+          ]
+        },
+        {
+          "Name": "Schema 2",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 100.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 1416.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 28.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    }
+  ],
+  "Simulations": [
+    {
+      "Name": "400_300_200",
+      "Model": "4Comp",
+      "ObservedData": [
+        "NCT 01691534_Bedaquiline_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__",
+        "NCT 01691534_N-desmethyl BDQ (M2)_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 384.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Bedaquiline|Plasma Unbound (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma Unbound (Peripheral Venous Blood)",
+        "Organism|Lung|Bedaquiline|Interstitial Unbound",
+        "Organism|Lung|N-desmethyl BDQ (M2)|Interstitial Unbound",
+        "Organism|Lung|Bedaquiline|Intracellular Unbound",
+        "Organism|Lung|N-desmethyl BDQ (M2)|Intracellular Unbound",
+        "Organism|Lung|Interstitial|Bedaquiline|Concentration in container",
+        "Organism|Lung|Interstitial|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Lung|Intracellular|Bedaquiline|Concentration in container",
+        "Organism|Lung|Intracellular|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Brain|Interstitial|Bedaquiline|Concentration in container",
+        "Organism|Brain|Interstitial|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Brain|Intracellular|Bedaquiline|Concentration in container",
+        "Organism|Brain|Intracellular|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Brain|Bedaquiline|Interstitial Unbound",
+        "Organism|Brain|N-desmethyl BDQ (M2)|Interstitial Unbound",
+        "Organism|Brain|Bedaquiline|Intracellular Unbound",
+        "Organism|Brain|N-desmethyl BDQ (M2)|Intracellular Unbound"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "400_300_200|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT 01691534_Bedaquiline_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400_300_200|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT 01691534_N-desmethyl BDQ (M2)_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__"
+        }
+      ],
+      "Individual": "TBPat",
+      "Compounds": [
+        {
+          "Name": "Bedaquiline",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Liu 2014",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-desmethyl BDQ (M2)"
+            },
+            {
+              "Name": "CYP2C8-Liu 2014",
+              "MoleculeName": "CYP2C8",
+              "MetaboliteName": "N-desmethyl BDQ (M2)"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Gaohua2015_S2_CLAdd",
+              "SystemicProcessType": "Hepatic"
+            }
+          ],
+          "Protocol": {
+            "Name": "400-300-200-mgPO",
+            "Formulations": [
+              {
+                "Name": "Weibull",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "N-desmethyl BDQ (M2)",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "Total Hepatic Clearance-Gaohua2015_S1",
+              "SystemicProcessType": "Hepatic"
+            }
+          ]
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "Min": 0.05,
+              "Max": 336.0,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "N-desmethyl BDQ (M2)-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "400_300_200|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 6
+              }
+            },
+            {
+              "Name": "Bedaquiline-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "400_300_200|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5
+              }
+            },
+            {
+              "Name": "NCT 01691534_Bedaquiline_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__-Bedaquiline-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT 01691534_Bedaquiline_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__|Time",
+              "Y": "NCT 01691534_Bedaquiline_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 11,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "NCT 01691534_N-desmethyl BDQ (M2)_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__-N-desmethyl BDQ (M2)-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT 01691534_N-desmethyl BDQ (M2)_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__|Time",
+              "Y": "NCT 01691534_N-desmethyl BDQ (M2)_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Measurement",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 12,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Bedaquiline PO 400 mg; 300 mg; 200 mg QD",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "BottomInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Bedaquiline_M2_V12_final\n400_300_200\n2025-06-12 17:40"
+        }
+      ]
+    },
+    {
+      "Name": "200_100",
+      "Model": "4Comp",
+      "ObservedData": [
+        "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 200_100 mg QD__"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 168.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Events|200-100-mgPO|Weibull|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|200-100-mgPO|Weibull|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|200-100-mgPO|Weibull|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|200-100-mgPO|Weibull|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|200-100-mgPO|Weibull|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|200-100-mgPO|Weibull|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|200-100-mgPO|Weibull|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|200-100-mgPO|Weibull|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|200-100-mgPO|Weibull|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|200-100-mgPO|Weibull|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|200-100-mgPO|Weibull|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|200-100-mgPO|Weibull|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|200-100-mgPO|Weibull|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|200-100-mgPO|Weibull|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|200-100-mgPO|Weibull|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|200-100-mgPO|Weibull|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Bedaquiline|Plasma Unbound (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma Unbound (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "200_100|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 200_100 mg QD__"
+        }
+      ],
+      "Individual": "TBPat",
+      "Compounds": [
+        {
+          "Name": "Bedaquiline",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Liu 2014",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-desmethyl BDQ (M2)"
+            },
+            {
+              "Name": "CYP2C8-Liu 2014",
+              "MoleculeName": "CYP2C8",
+              "MetaboliteName": "N-desmethyl BDQ (M2)"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Gaohua2015_S2_CLAdd",
+              "SystemicProcessType": "Hepatic"
+            }
+          ],
+          "Protocol": {
+            "Name": "200-100-mgPO",
+            "Formulations": [
+              {
+                "Name": "Weibull",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "N-desmethyl BDQ (M2)",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "Total Hepatic Clearance-Gaohua2015_S1",
+              "SystemicProcessType": "Hepatic"
+            }
+          ]
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Bedaquiline-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "200_100|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 200_100 mg QD__-Bedaquiline-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 200_100 mg QD__|Time",
+              "Y": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 200_100 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Bedaquiline PO 200 mg; 100 mg QD",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "BottomInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Bedaquiline\n200_100\n2025-09-22 16:52"
+        }
+      ]
+    },
+    {
+      "Name": "500_400_300",
+      "Model": "4Comp",
+      "ObservedData": [
+        "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 500_400_300 mg QD__"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 168.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|500-400-300-mgPO|Weibull|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+        "Organism|Brain|Plasma|Bedaquiline|Concentration in container",
+        "Organism|Brain|Plasma|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Brain|Bedaquiline|Interstitial Unbound",
+        "Organism|Brain|N-desmethyl BDQ (M2)|Interstitial Unbound",
+        "Organism|Brain|Bedaquiline|Intracellular Unbound",
+        "Organism|Brain|N-desmethyl BDQ (M2)|Intracellular Unbound",
+        "Organism|Lung|Plasma|Bedaquiline|Concentration in container",
+        "Organism|Lung|Plasma|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Lung|Intracellular|Bedaquiline|Concentration in container",
+        "Organism|Lung|Intracellular|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Lung|Interstitial|Bedaquiline|Concentration in container",
+        "Organism|Lung|Interstitial|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Lung|Bedaquiline|Interstitial Unbound",
+        "Organism|Lung|N-desmethyl BDQ (M2)|Interstitial Unbound",
+        "Organism|Lung|Bedaquiline|Intracellular Unbound",
+        "Organism|Lung|N-desmethyl BDQ (M2)|Intracellular Unbound",
+        "Organism|PeripheralVenousBlood|Bedaquiline|Plasma Unbound (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma Unbound (Peripheral Venous Blood)",
+        "Organism|Brain|Intracellular|Bedaquiline|Concentration in container",
+        "Organism|Brain|Intracellular|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Brain|Interstitial|Bedaquiline|Concentration in container",
+        "Organism|Brain|Interstitial|N-desmethyl BDQ (M2)|Concentration in container"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "500_400_300|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 500_400_300 mg QD__"
+        }
+      ],
+      "Individual": "TBPat",
+      "Compounds": [
+        {
+          "Name": "Bedaquiline",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Liu 2014",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-desmethyl BDQ (M2)"
+            },
+            {
+              "Name": "CYP2C8-Liu 2014",
+              "MoleculeName": "CYP2C8",
+              "MetaboliteName": "N-desmethyl BDQ (M2)"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Gaohua2015_S2_CLAdd",
+              "SystemicProcessType": "Hepatic"
+            }
+          ],
+          "Protocol": {
+            "Name": "500-400-300-mgPO",
+            "Formulations": [
+              {
+                "Name": "Weibull",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "N-desmethyl BDQ (M2)",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "Total Hepatic Clearance-Gaohua2015_S1",
+              "SystemicProcessType": "Hepatic"
+            }
+          ]
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Bedaquiline-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "500_400_300|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 500_400_300 mg QD__-Bedaquiline-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 500_400_300 mg QD__|Time",
+              "Y": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 500_400_300 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 11,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Bedaquiline PO 500 mg; 400 mg; 300 mg QD",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "Bottom",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Bedaquiline\n500_400_300\n2025-09-22 16:58"
+        }
+      ]
+    },
+    {
+      "Name": "700_500_400",
+      "Model": "4Comp",
+      "ObservedData": [
+        "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 168.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|700-500-400-mgPO|Weibull|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+        "Organism|Brain|Plasma|Bedaquiline|Concentration in container",
+        "Organism|Brain|Plasma|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Brain|Bedaquiline|Interstitial Unbound",
+        "Organism|Brain|N-desmethyl BDQ (M2)|Interstitial Unbound",
+        "Organism|Brain|Bedaquiline|Intracellular Unbound",
+        "Organism|Brain|N-desmethyl BDQ (M2)|Intracellular Unbound",
+        "Organism|Lung|Plasma|Bedaquiline|Concentration in container",
+        "Organism|Lung|Plasma|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Lung|Intracellular|Bedaquiline|Concentration in container",
+        "Organism|Lung|Intracellular|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Lung|Interstitial|Bedaquiline|Concentration in container",
+        "Organism|Lung|Interstitial|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Lung|Bedaquiline|Interstitial Unbound",
+        "Organism|Lung|N-desmethyl BDQ (M2)|Interstitial Unbound",
+        "Organism|Lung|Bedaquiline|Intracellular Unbound",
+        "Organism|Lung|N-desmethyl BDQ (M2)|Intracellular Unbound",
+        "Organism|Brain|Intracellular|Bedaquiline|Concentration in container",
+        "Organism|Brain|Intracellular|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|PeripheralVenousBlood|Bedaquiline|Plasma Unbound (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma Unbound (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "700_500_400|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__"
+        }
+      ],
+      "Individual": "TBPat",
+      "Compounds": [
+        {
+          "Name": "Bedaquiline",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Liu 2014",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-desmethyl BDQ (M2)"
+            },
+            {
+              "Name": "CYP2C8-Liu 2014",
+              "MoleculeName": "CYP2C8",
+              "MetaboliteName": "N-desmethyl BDQ (M2)"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Gaohua2015_S2_CLAdd",
+              "SystemicProcessType": "Hepatic"
+            }
+          ],
+          "Protocol": {
+            "Name": "700-500-400-mgPO",
+            "Formulations": [
+              {
+                "Name": "Weibull",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "N-desmethyl BDQ (M2)",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "Total Hepatic Clearance-Gaohua2015_S1",
+              "SystemicProcessType": "Hepatic"
+            }
+          ]
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Bedaquiline-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "700_500_400|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__-Bedaquiline-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__|Time",
+              "Y": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 11,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Bedaquiline PO 700 mg; 500 mg; 400 mg QD",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "BottomInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Bedaquiline\n700_500_400\n2025-09-22 16:59"
+        }
+      ]
+    },
+    {
+      "Name": "400mgQD_200mg_TIW",
+      "Model": "4Comp",
+      "ObservedData": [
+        "NCT02583048_Bedaquiline_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+        "NCT02583048_Bedaquiline_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+        "NCT02583048_Bedaquiline_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+        "NCT02583048_Bedaquiline_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+        "NCT02583048_Bedaquiline_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+        "NCT02583048_Bedaquiline_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+        "NCT02583048_Bedaquiline_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+        "NCT02583048_N-desmethyl BDQ (M2)_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+        "NCT02583048_N-desmethyl BDQ (M2)_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+        "NCT02583048_N-desmethyl BDQ (M2)_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+        "NCT02583048_N-desmethyl BDQ (M2)_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+        "NCT02583048_N-desmethyl BDQ (M2)_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+        "NCT02583048_N-desmethyl BDQ (M2)_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+        "NCT02583048_N-desmethyl BDQ (M2)_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 4032.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_18|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_19|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_20|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_21|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_22|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_23|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_24|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_25|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_26|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_27|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_28|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_29|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_30|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_31|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_32|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_33|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_34|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_35|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_36|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_37|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_38|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_39|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_40|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_41|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_42|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_43|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_44|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_45|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_46|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_47|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_48|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_49|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_50|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_51|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_52|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_53|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_54|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_55|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_56|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_57|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_58|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_59|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_60|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_61|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_62|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_63|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_64|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_65|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_66|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_67|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_68|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_69|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_70|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_71|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_72|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_73|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_74|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_75|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_76|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_77|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_78|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_79|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_80|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_81|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_82|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_83|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_84|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_85|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_86|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_87|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_88|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_89|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_90|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_91|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_92|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_93|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400QD-200TIW_mgPO|Weibull|Application_94|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Bedaquiline|Plasma Unbound (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma Unbound (Peripheral Venous Blood)",
+        "Organism|Lung|Bedaquiline|Interstitial Unbound",
+        "Organism|Lung|N-desmethyl BDQ (M2)|Interstitial Unbound",
+        "Organism|Lung|Bedaquiline|Intracellular Unbound",
+        "Organism|Lung|N-desmethyl BDQ (M2)|Intracellular Unbound",
+        "Organism|Lung|Interstitial|Bedaquiline|Concentration in container",
+        "Organism|Lung|Interstitial|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Lung|Intracellular|Bedaquiline|Concentration in container",
+        "Organism|Lung|Intracellular|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Brain|Interstitial|Bedaquiline|Concentration in container",
+        "Organism|Brain|Interstitial|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Brain|Intracellular|Bedaquiline|Concentration in container",
+        "Organism|Brain|Intracellular|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Brain|Bedaquiline|Interstitial Unbound",
+        "Organism|Brain|N-desmethyl BDQ (M2)|Interstitial Unbound",
+        "Organism|Brain|Bedaquiline|Intracellular Unbound",
+        "Organism|Brain|N-desmethyl BDQ (M2)|Intracellular Unbound"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_N-desmethyl BDQ (M2)_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_Bedaquiline_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_Bedaquiline_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_Bedaquiline_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_Bedaquiline_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_Bedaquiline_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_Bedaquiline_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT02583048_Bedaquiline_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+        }
+      ],
+      "Individual": "TBPat",
+      "Compounds": [
+        {
+          "Name": "Bedaquiline",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Liu 2014",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-desmethyl BDQ (M2)"
+            },
+            {
+              "Name": "CYP2C8-Liu 2014",
+              "MoleculeName": "CYP2C8",
+              "MetaboliteName": "N-desmethyl BDQ (M2)"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Gaohua2015_S2_CLAdd",
+              "SystemicProcessType": "Hepatic"
+            }
+          ],
+          "Protocol": {
+            "Name": "400QD-200TIW_mgPO",
+            "Formulations": [
+              {
+                "Name": "Weibull",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "N-desmethyl BDQ (M2)",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "Total Hepatic Clearance-Gaohua2015_S1",
+              "SystemicProcessType": "Hepatic"
+            }
+          ]
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "N-desmethyl BDQ (M2)-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 6
+              }
+            },
+            {
+              "Name": "NCT02583048_Bedaquiline_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__-Bedaquiline-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT02583048_Bedaquiline_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+              "Y": "NCT02583048_Bedaquiline_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 18,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "NCT02583048_Bedaquiline_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__-Bedaquiline-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT02583048_Bedaquiline_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+              "Y": "NCT02583048_Bedaquiline_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 22,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "NCT02583048_Bedaquiline_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__-Bedaquiline-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT02583048_Bedaquiline_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+              "Y": "NCT02583048_Bedaquiline_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 23,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "NCT02583048_Bedaquiline_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__-Bedaquiline-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT02583048_Bedaquiline_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+              "Y": "NCT02583048_Bedaquiline_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 24,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "NCT02583048_N-desmethyl BDQ (M2)_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__-N-desmethyl BDQ (M2)-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT02583048_N-desmethyl BDQ (M2)_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+              "Y": "NCT02583048_N-desmethyl BDQ (M2)_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Measurement",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 42,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Bedaquiline-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "400mgQD_200mg_TIW|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 43
+              }
+            },
+            {
+              "Name": "NCT02583048_Bedaquiline_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__-Bedaquiline-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT02583048_Bedaquiline_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+              "Y": "NCT02583048_Bedaquiline_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 41,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "NCT02583048_Bedaquiline_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__-Bedaquiline-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT02583048_Bedaquiline_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+              "Y": "NCT02583048_Bedaquiline_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 39,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "NCT02583048_Bedaquiline_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__-Bedaquiline-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT02583048_Bedaquiline_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+              "Y": "NCT02583048_Bedaquiline_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 40,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "NCT02583048_N-desmethyl BDQ (M2)_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__-N-desmethyl BDQ (M2)-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT02583048_N-desmethyl BDQ (M2)_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+              "Y": "NCT02583048_N-desmethyl BDQ (M2)_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Measurement",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 33,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "NCT02583048_N-desmethyl BDQ (M2)_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__-N-desmethyl BDQ (M2)-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT02583048_N-desmethyl BDQ (M2)_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+              "Y": "NCT02583048_N-desmethyl BDQ (M2)_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Measurement",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 34,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "NCT02583048_N-desmethyl BDQ (M2)_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__-N-desmethyl BDQ (M2)-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT02583048_N-desmethyl BDQ (M2)_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+              "Y": "NCT02583048_N-desmethyl BDQ (M2)_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Measurement",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 35,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "NCT02583048_N-desmethyl BDQ (M2)_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__-N-desmethyl BDQ (M2)-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT02583048_N-desmethyl BDQ (M2)_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+              "Y": "NCT02583048_N-desmethyl BDQ (M2)_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Measurement",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 36,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "NCT02583048_N-desmethyl BDQ (M2)_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__-N-desmethyl BDQ (M2)-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT02583048_N-desmethyl BDQ (M2)_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+              "Y": "NCT02583048_N-desmethyl BDQ (M2)_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Measurement",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 37,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "NCT02583048_N-desmethyl BDQ (M2)_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__-N-desmethyl BDQ (M2)-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT02583048_N-desmethyl BDQ (M2)_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+              "Y": "NCT02583048_N-desmethyl BDQ (M2)_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Measurement",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 38,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Bedaquiline PO 400 mg QD; 200 mg thrice weekly",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "BottomInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Bedaquiline_M2_V12_final\n400mgQD_200mgTIW\n2025-06-12 17:48"
+        }
+      ]
+    },
+    {
+      "Name": "400_300_200_(2)",
+      "Model": "4Comp",
+      "ObservedData": [
+        "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 168.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Events|400-300-200-mgPO|Weibull|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Bedaquiline|Plasma Unbound (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desmethyl BDQ (M2)|Plasma Unbound (Peripheral Venous Blood)",
+        "Organism|Lung|Bedaquiline|Interstitial Unbound",
+        "Organism|Lung|N-desmethyl BDQ (M2)|Interstitial Unbound",
+        "Organism|Lung|Bedaquiline|Intracellular Unbound",
+        "Organism|Lung|N-desmethyl BDQ (M2)|Intracellular Unbound",
+        "Organism|Lung|Interstitial|Bedaquiline|Concentration in container",
+        "Organism|Lung|Interstitial|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Lung|Intracellular|Bedaquiline|Concentration in container",
+        "Organism|Lung|Intracellular|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Brain|Interstitial|Bedaquiline|Concentration in container",
+        "Organism|Brain|Interstitial|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Brain|Intracellular|Bedaquiline|Concentration in container",
+        "Organism|Brain|Intracellular|N-desmethyl BDQ (M2)|Concentration in container",
+        "Organism|Brain|Bedaquiline|Interstitial Unbound",
+        "Organism|Brain|N-desmethyl BDQ (M2)|Interstitial Unbound",
+        "Organism|Brain|Bedaquiline|Intracellular Unbound",
+        "Organism|Brain|N-desmethyl BDQ (M2)|Intracellular Unbound"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "400_300_200_(2)|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__"
+        }
+      ],
+      "Individual": "TBPat",
+      "Compounds": [
+        {
+          "Name": "Bedaquiline",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Liu 2014",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-desmethyl BDQ (M2)"
+            },
+            {
+              "Name": "CYP2C8-Liu 2014",
+              "MoleculeName": "CYP2C8",
+              "MetaboliteName": "N-desmethyl BDQ (M2)"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Gaohua2015_S2_CLAdd",
+              "SystemicProcessType": "Hepatic"
+            }
+          ],
+          "Protocol": {
+            "Name": "400-300-200-mgPO",
+            "Formulations": [
+              {
+                "Name": "Weibull",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "N-desmethyl BDQ (M2)",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - PK-Sim Standard",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "Total Hepatic Clearance-Gaohua2015_S1",
+              "SystemicProcessType": "Hepatic"
+            }
+          ]
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Bedaquiline-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "400_300_200_(2)|Organism|PeripheralVenousBlood|Bedaquiline|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5
+              }
+            },
+            {
+              "Name": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__-Bedaquiline-PeripheralVenousBlood-Plasma-Measurement",
+              "X": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__|Time",
+              "Y": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 11,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Bedaquiline PO 400 mg; 300 mg; 200 mg QD",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "BottomInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Bedaquiline\n400_300_200_(2)\n2025-09-22 16:58"
+        }
+      ]
+    }
+  ],
+  "ObservedData": [
+    {
+      "Name": "NCT 01691534_Bedaquiline_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Diacon 2015",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT 01691534",
+          "Type": "String"
+        },
+        {
+          "Name": "Subject Id",
+          "Value": "mean",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_300_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Bedaquiline",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT 01691534_Bedaquiline_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 555.5
+              },
+              "Values": [
+                0.0,
+                0.1493659,
+                1.00316632,
+                0.9151651,
+                0.963568032,
+                0.836895466,
+                0.492039919,
+                0.452423453,
+                0.146824822,
+                0.798285663,
+                0.2286234,
+                0.594234943,
+                0.742875755,
+                0.7931415,
+                0.3336038,
+                0.06461708
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT 01691534_Bedaquiline_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 555.5
+          },
+          "Values": [
+            0.0,
+            122.195328,
+            1452.65991,
+            2180.2666,
+            2277.2002,
+            1785.26672,
+            1101.33325,
+            1063.53333,
+            407.383331,
+            1603.839,
+            490.559326,
+            1287.195,
+            1152.31982,
+            1382.02515,
+            755.216858,
+            115.171158
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT 01691534_Bedaquiline_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          -0.25,
+          1.0,
+          3.0,
+          5.0,
+          6.0,
+          8.0,
+          10.0,
+          12.0,
+          23.75,
+          30.0,
+          47.75,
+          54.0,
+          168.0,
+          320.0,
+          335.75,
+          671.75
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT 01691534_N-desmethyl BDQ (M2)_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Diacon 2015",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT 01691534",
+          "Type": "String"
+        },
+        {
+          "Name": "Subject Id",
+          "Value": "mean",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_300_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "N-desmethyl BDQ (M2)",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT 01691534_N-desmethyl BDQ (M2)_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 541.0
+              },
+              "Values": [
+                0.0221112836,
+                0.03554148,
+                0.0292609911,
+                0.0461865924,
+                0.05331354,
+                0.0604101941,
+                0.08687756,
+                0.116282128,
+                0.124617785,
+                0.0226797163
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT 01691534_N-desmethyl BDQ (M2)_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 541.0
+          },
+          "Values": [
+            36.6108322,
+            56.0833321,
+            51.75,
+            91.58644,
+            87.1847458,
+            110.820335,
+            178.045944,
+            241.491455,
+            241.185577,
+            41.671154
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT 01691534_N-desmethyl BDQ (M2)_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          5.0,
+          10.0,
+          23.75,
+          30.0,
+          47.75,
+          54.0,
+          168.0,
+          320.0,
+          335.75,
+          671.75
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 200_100 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "NCT01215110",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT01215110",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 200_100 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Bedaquiline",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 200_100 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 555.5
+              },
+              "Values": [
+                0.0,
+                167.985046,
+                597.2557,
+                584.9409,
+                625.8926,
+                632.3464,
+                451.237061,
+                114.747421,
+                102.567657,
+                105.84549,
+                103.977654,
+                113.248566,
+                111.727776,
+                243.3029
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 200_100 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 555.5
+          },
+          "Values": [
+            0.0,
+            85.536,
+            1196.10669,
+            1540.6,
+            1571.46667,
+            1258.26672,
+            765.2,
+            318.4,
+            302.133331,
+            309.466644,
+            333.93335,
+            365.666656,
+            368.666656,
+            463.1
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 200_100 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          -0.25,
+          1.0,
+          3.0,
+          5.0,
+          6.0,
+          8.0,
+          12.0,
+          30.0,
+          47.75,
+          71.75,
+          95.75,
+          119.75,
+          143.75,
+          167.75
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "NCT01215110",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT01215110",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_300_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Bedaquiline",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 555.5
+              },
+              "Values": [
+                0.0,
+                149.3659,
+                1003.16626,
+                913.3938,
+                963.568054,
+                836.8955,
+                452.423462,
+                243.818,
+                254.368469,
+                262.2908,
+                197.296249,
+                197.206558,
+                213.560776,
+                241.711456
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 555.5
+          },
+          "Values": [
+            0.0,
+            122.195328,
+            1452.65991,
+            2158.33325,
+            2277.2002,
+            1785.26672,
+            1063.53333,
+            502.2667,
+            647.8,
+            638.2,
+            626.3334,
+            666.0,
+            672.266663,
+            760.6667
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          -0.25,
+          1.0,
+          3.0,
+          5.0,
+          6.0,
+          8.0,
+          12.0,
+          30.0,
+          47.75,
+          71.75,
+          95.75,
+          119.75,
+          143.75,
+          167.75
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 500_400_300 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "NCT01215110",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT01215110",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 500_400_300 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Bedaquiline",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 500_400_300 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 555.5
+              },
+              "Values": [
+                0.0,
+                125.615242,
+                1178.19934,
+                1506.64355,
+                1061.13953,
+                667.4912,
+                588.473633,
+                404.027832,
+                231.263855,
+                222.02858,
+                261.7036,
+                319.933075,
+                364.171631,
+                514.790161
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 500_400_300 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 555.5
+          },
+          "Values": [
+            0.0,
+            0.09060667,
+            1.53093338,
+            2.70293355,
+            2.74800014,
+            2.01033354,
+            1.25193334,
+            0.656066656,
+            0.745399952,
+            0.793071449,
+            0.927,
+            0.979999959,
+            0.994153857,
+            1.13496149
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 500_400_300 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          -0.25,
+          1.0,
+          3.0,
+          5.0,
+          6.0,
+          8.0,
+          12.0,
+          30.0,
+          47.75,
+          71.75,
+          95.75,
+          119.75,
+          143.75,
+          167.75
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "NCT01215110",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT01215110",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 700_500_400 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Bedaquiline",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 555.5
+              },
+              "Values": [
+                0.0,
+                147.309311,
+                1762.69446,
+                2860.1272,
+                2758.505,
+                1553.06543,
+                875.71936,
+                427.3861,
+                433.626,
+                372.050964,
+                426.432343,
+                478.089417,
+                551.7912,
+                667.3519
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 555.5
+          },
+          "Values": [
+            0.0,
+            0.108622663,
+            2.3635335,
+            4.20466661,
+            4.88066673,
+            3.64866662,
+            2.20353341,
+            1.01420009,
+            1.2398572,
+            1.1213572,
+            1.34271431,
+            1.38635707,
+            1.46942854,
+            1.60032141
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          -0.25,
+          1.0,
+          3.0,
+          5.0,
+          6.0,
+          8.0,
+          12.0,
+          30.0,
+          47.75,
+          71.75,
+          95.75,
+          119.75,
+          143.75,
+          167.75
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT02583048_Bedaquiline_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Upton 2013",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT02583048",
+          "Type": "String"
+        },
+        {
+          "Name": "Subject Id",
+          "Value": "1",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Bedaquiline",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT02583048_Bedaquiline_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 555.5,
+                "LLOQ": 0.0
+              },
+              "Values": [
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT02583048_Bedaquiline_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 555.5
+          },
+          "Values": [
+            871.0
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT02583048_Bedaquiline_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          4015.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT02583048_Bedaquiline_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Upton 2013",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT02583048",
+          "Type": "String"
+        },
+        {
+          "Name": "Subject Id",
+          "Value": "2",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Bedaquiline",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT02583048_Bedaquiline_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 555.5,
+                "LLOQ": 0.0
+              },
+              "Values": [
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT02583048_Bedaquiline_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 555.5
+          },
+          "Values": [
+            1832.0
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT02583048_Bedaquiline_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          4013.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT02583048_Bedaquiline_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Upton 2013",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT02583048",
+          "Type": "String"
+        },
+        {
+          "Name": "Subject Id",
+          "Value": "3",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Bedaquiline",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT02583048_Bedaquiline_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 555.5,
+                "LLOQ": 0.0
+              },
+              "Values": [
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT02583048_Bedaquiline_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 555.5
+          },
+          "Values": [
+            892.6
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT02583048_Bedaquiline_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          4013.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT02583048_Bedaquiline_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Upton 2013",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT02583048",
+          "Type": "String"
+        },
+        {
+          "Name": "Subject Id",
+          "Value": "4",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Bedaquiline",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT02583048_Bedaquiline_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 555.5,
+                "LLOQ": 0.0
+              },
+              "Values": [
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT02583048_Bedaquiline_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 555.5
+          },
+          "Values": [
+            1221.0
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT02583048_Bedaquiline_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          4013.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT02583048_Bedaquiline_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Upton 2013",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT02583048",
+          "Type": "String"
+        },
+        {
+          "Name": "Subject Id",
+          "Value": "5",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Bedaquiline",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT02583048_Bedaquiline_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 555.5,
+                "LLOQ": 0.0
+              },
+              "Values": [
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT02583048_Bedaquiline_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 555.5
+          },
+          "Values": [
+            1297.0
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT02583048_Bedaquiline_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          4015.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT02583048_Bedaquiline_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Upton 2013",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT02583048",
+          "Type": "String"
+        },
+        {
+          "Name": "Subject Id",
+          "Value": "6",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Bedaquiline",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT02583048_Bedaquiline_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 555.5,
+                "LLOQ": 0.0
+              },
+              "Values": [
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT02583048_Bedaquiline_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 555.5
+          },
+          "Values": [
+            399.0
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT02583048_Bedaquiline_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          4018.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT02583048_Bedaquiline_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Upton 2013",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT02583048",
+          "Type": "String"
+        },
+        {
+          "Name": "Subject Id",
+          "Value": "7",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Bedaquiline",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT02583048_Bedaquiline_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 555.5,
+                "LLOQ": 0.0
+              },
+              "Values": [
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT02583048_Bedaquiline_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|Bedaquiline|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 555.5
+          },
+          "Values": [
+            1497.0
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT02583048_Bedaquiline_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          4015.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT02583048_N-desmethyl BDQ (M2)_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Upton 2013",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT02583048",
+          "Type": "String"
+        },
+        {
+          "Name": "Subject Id",
+          "Value": "1",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "N-desmethyl BDQ (M2)",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT02583048_N-desmethyl BDQ (M2)_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 541.0,
+                "LLOQ": 0.0
+              },
+              "Values": [
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT02583048_N-desmethyl BDQ (M2)_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 541.0
+          },
+          "Values": [
+            101.0
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT02583048_N-desmethyl BDQ (M2)_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          4015.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT02583048_N-desmethyl BDQ (M2)_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Upton 2013",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT02583048",
+          "Type": "String"
+        },
+        {
+          "Name": "Subject Id",
+          "Value": "2",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "N-desmethyl BDQ (M2)",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT02583048_N-desmethyl BDQ (M2)_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 541.0,
+                "LLOQ": 0.0
+              },
+              "Values": [
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT02583048_N-desmethyl BDQ (M2)_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 541.0
+          },
+          "Values": [
+            247.999985
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT02583048_N-desmethyl BDQ (M2)_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          4013.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT02583048_N-desmethyl BDQ (M2)_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Upton 2013",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT02583048",
+          "Type": "String"
+        },
+        {
+          "Name": "Subject Id",
+          "Value": "3",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "N-desmethyl BDQ (M2)",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT02583048_N-desmethyl BDQ (M2)_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 541.0,
+                "LLOQ": 0.0
+              },
+              "Values": [
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT02583048_N-desmethyl BDQ (M2)_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 541.0
+          },
+          "Values": [
+            134.1
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT02583048_N-desmethyl BDQ (M2)_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          4013.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT02583048_N-desmethyl BDQ (M2)_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Upton 2013",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT02583048",
+          "Type": "String"
+        },
+        {
+          "Name": "Subject Id",
+          "Value": "4",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "N-desmethyl BDQ (M2)",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT02583048_N-desmethyl BDQ (M2)_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 541.0,
+                "LLOQ": 0.0
+              },
+              "Values": [
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT02583048_N-desmethyl BDQ (M2)_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 541.0
+          },
+          "Values": [
+            206.0
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT02583048_N-desmethyl BDQ (M2)_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          4013.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT02583048_N-desmethyl BDQ (M2)_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Upton 2013",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT02583048",
+          "Type": "String"
+        },
+        {
+          "Name": "Subject Id",
+          "Value": "5",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "N-desmethyl BDQ (M2)",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT02583048_N-desmethyl BDQ (M2)_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 541.0,
+                "LLOQ": 0.0
+              },
+              "Values": [
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT02583048_N-desmethyl BDQ (M2)_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 541.0
+          },
+          "Values": [
+            326.0
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT02583048_N-desmethyl BDQ (M2)_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          4015.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT02583048_N-desmethyl BDQ (M2)_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Upton 2013",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT02583048",
+          "Type": "String"
+        },
+        {
+          "Name": "Subject Id",
+          "Value": "6",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "N-desmethyl BDQ (M2)",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT02583048_N-desmethyl BDQ (M2)_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 541.0,
+                "LLOQ": 0.0
+              },
+              "Values": [
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT02583048_N-desmethyl BDQ (M2)_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 541.0
+          },
+          "Values": [
+            89.0
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT02583048_N-desmethyl BDQ (M2)_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          4018.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "NCT02583048_N-desmethyl BDQ (M2)_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+      "ExtendedProperties": [
+        {
+          "Name": "Sheet",
+          "Value": "Upton 2013",
+          "Type": "String"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "NCT02583048",
+          "Type": "String"
+        },
+        {
+          "Name": "Subject Id",
+          "Value": "7",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "PeripheralVenousBlood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "Bedaquiline 400_200 mg QD",
+          "Type": "String"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "N-desmethyl BDQ (M2)",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Measurement",
+          "RelatedColumns": [
+            {
+              "Name": "Error",
+              "QuantityInfo": {
+                "Path": "NCT02583048_N-desmethyl BDQ (M2)_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Error"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 541.0,
+                "LLOQ": 0.0
+              },
+              "Values": [
+                0.0
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "ng/ml"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "NCT02583048_N-desmethyl BDQ (M2)_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|ObservedData|PeripheralVenousBlood|Plasma|N-desmethyl BDQ (M2)|Measurement"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 541.0
+          },
+          "Values": [
+            177.0
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "NCT02583048_N-desmethyl BDQ (M2)_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          4015.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    }
+  ],
+  "ObservedDataClassifications": [
+    {
+      "Name": "NCT 01691534",
+      "Classifications": [
+        {
+          "Name": "Bedaquiline 400_300_200 mg QD",
+          "Classifiables": [
+            "NCT 01691534_Bedaquiline_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__",
+            "NCT 01691534_N-desmethyl BDQ (M2)_mean_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "NCT01215110",
+      "Classifications": [
+        {
+          "Name": "Bedaquiline 200_100 mg QD",
+          "Classifiables": [
+            "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 200_100 mg QD__"
+          ]
+        },
+        {
+          "Name": "Bedaquiline 400_300_200 mg QD",
+          "Classifiables": [
+            "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_300_200 mg QD__"
+          ]
+        },
+        {
+          "Name": "Bedaquiline 500_400_300 mg QD",
+          "Classifiables": [
+            "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 500_400_300 mg QD__"
+          ]
+        },
+        {
+          "Name": "Bedaquiline 700_500_400 mg QD",
+          "Classifiables": [
+            "NCT01215110_Bedaquiline__Human_PeripheralVenousBlood_Plasma_Bedaquiline 700_500_400 mg QD__"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "NCT02583048",
+      "Classifications": [
+        {
+          "Name": "Bedaquiline 400_200 mg QD",
+          "Classifiables": [
+            "NCT02583048_Bedaquiline_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+            "NCT02583048_Bedaquiline_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+            "NCT02583048_Bedaquiline_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+            "NCT02583048_Bedaquiline_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+            "NCT02583048_Bedaquiline_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+            "NCT02583048_Bedaquiline_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+            "NCT02583048_Bedaquiline_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+            "NCT02583048_N-desmethyl BDQ (M2)_1_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+            "NCT02583048_N-desmethyl BDQ (M2)_2_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+            "NCT02583048_N-desmethyl BDQ (M2)_3_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+            "NCT02583048_N-desmethyl BDQ (M2)_4_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+            "NCT02583048_N-desmethyl BDQ (M2)_5_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+            "NCT02583048_N-desmethyl BDQ (M2)_6_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__",
+            "NCT02583048_N-desmethyl BDQ (M2)_7_Human_PeripheralVenousBlood_Plasma_Bedaquiline 400_200 mg QD__"
+          ]
+        }
+      ]
+    }
+  ],
+  "SimulationClassifications": [
+    {
+      "Name": "Model building",
+      "Classifiables": [
+        "400_300_200"
+      ]
+    },
+    {
+      "Name": "Model validation",
+      "Classifiables": [
+        "200_100",
+        "500_400_300",
+        "700_500_400",
+        "400mgQD_200mg_TIW",
+        "400_300_200_(2)"
+      ]
+    }
+  ]
+}

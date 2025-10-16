@@ -1,8 +1,10 @@
-# COMPOUND-Model
-**_tbd._**
+# Bedaquiline-Model
+Whole-body PBPK model of bedaquiline.
 
 ## Repository files
-**_tbd._**
+Within this repository, we share a whole-body PBPK model of bedaquiline and its metabolite N-desmethyl bedaquiline (M2). The model was developed using data of 3 clinical studies (dosing range 100–700 mg). 
+
+The PK-Sim snapshot file contains simulations and the observed data of all clinical studies used for model development and evaluation. For further details, quantitative model evaluation, sensitivity analysis and extensive documentation please refer to [[1](#main-references)].
 
 ## Code of conduct
 Everyone interacting in the Open Systems Pharmacology community (codebases, issue trackers, chat rooms, mailing lists etc...) is expected to follow the Open Systems Pharmacology [code of conduct](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct).
@@ -14,4 +16,5 @@ We encourage contribution to the Open Systems Pharmacology community. Before get
 The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
 
 ## References
-[1] **_tbd._**
+[1] [Mehta K, Balazki P, van der Graaf PH, Guo T, van Hasselt JGC. Predictions of Bedaquiline Central Nervous System Exposure in Patients with Tuberculosis Meningitis Using Physiologically based Pharmacokinetic Modeling. Clin Pharmacokinet. 2024 May;63(5):657-668.](https://doi.org/10.1007/s40262-024-01363-6)
+
